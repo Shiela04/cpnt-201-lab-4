@@ -131,6 +131,10 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 
+### Maja Blanca
+
+Ingredients:
+
 ### Banana bread
 
 Ingredients:

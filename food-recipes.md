@@ -10,6 +10,7 @@
   - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
   - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+  - [Maja Blanca](#maja-blanca)
   - [Banana bread](#banana-bread)
 
 ## Appetizers
@@ -134,6 +135,27 @@ Instructions:
 ### Maja Blanca
 
 Ingredients:
+
+- 4 cups coconut milk
+- 3/4 cup cornstarch
+- 14 ounces condensed milk
+- 3/4 cup fresh milk
+- 3/4 cup granulated sugar
+- 15 ounces whole sweet kernel corn
+- 5 tbsp toasted grated coconut
+
+Instructions:
+
+1. Pour the coconut milk in a cooking pot and bring to a boil.
+2. Add the sugar, condensed milk, and whole sweet kernel corn then stir until all the ingredients are evenly distributed.
+3. Simmer for 8 minutes
+4. Combine the milk and cornstarch then whisk until the cornstarch is diluted
+5. Pour the fresh milk and cornstarch mixture in the cooking pot and stir thoroughly.
+6. Allow to cook while stirring until the mixture reaches your desired thickness
+7. Pour the mixture in a serving tray then arrange and flatten the top using a flat tool such as a wooden spatula
+8. Allow to cool down then refrigerate for at least 1 hour
+9. Garnish with toasted grated coconut (or latik if available)
+10. Serve cold. Share and enjoy!
 
 ### Banana bread
 
